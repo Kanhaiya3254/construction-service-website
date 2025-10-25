@@ -1,1 +1,1 @@
-
+I created a modern and responsive business website for a Construction and Architecture service company using React, focusing on clean design and user-friendly interaction. It includes key features like service booking, team display, project highlights, testimonials, and a functional contact section. This project represents my ability as a web developer to build professional and visually appealing websites suitable for real clients.
