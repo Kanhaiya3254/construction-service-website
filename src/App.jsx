@@ -8,7 +8,7 @@ import Testimonials from "./components/Testimonials";
 import ContactForm from "./components/ContactForm";
 import Footer from "./components/Footer";
 import ConstructionPage from "./components/ConstructionPage";
-import "./app.css";
+import "./App.css";
 
 export default function App() {
   const [showConstruction, setShowConstruction] = useState(false);
