@@ -1,7 +1,7 @@
 // Hero.jsx
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import "../app.css"; // Make sure this path is correct
+import "../App.css"; // Make sure this path is correct
 
 const images = [
   "Rectangle 198.png",
